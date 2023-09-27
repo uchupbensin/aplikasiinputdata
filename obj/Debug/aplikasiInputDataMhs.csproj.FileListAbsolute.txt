@@ -1,0 +1,10 @@
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.exe.config
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.exe
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.pdb
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csprojAssemblyReference.cache
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.Form1.resources
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.Properties.Resources.resources
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csproj.GenerateResource.cache
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csproj.CoreCompileInputs.cache
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.exe
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.pdb
